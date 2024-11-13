@@ -2,6 +2,9 @@
 
 **HERE IS A DEMO OF OUR ITERATION 2 [DEMO](https://youtu.be/lIsFlJB11_0)**
 
+**Worked on this project with 3 other group members: Sera Ermolenko, Alex Simpson, and Jason Jang.**
+<img width="1299" alt="image" src="https://github.com/user-attachments/assets/636d702a-8a8a-487c-9bb1-0af64080d401">
+
 # Description
 Finders is a platform designed to help students at find team members for class projects, hackathons, and personal initiatives. Whether it’s forming a group for a course, or seeking contributors for a passion project, Finders bridges the gap between students with complementary skill sets.
 
