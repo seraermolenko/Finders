@@ -2,7 +2,7 @@
 
 **HERE IS A DEMO OF OUR ITERATION 2 [DEMO](https://youtu.be/lIsFlJB11_0)**
 
-**Worked on this project with 3 other group members: Sera Ermolenko, Alex Simpson, and Jason Jang.**
+**Worked on this project with 3 other students: Sera Ermolenko, Alex Simpson, and Jason Jang.**
 <img width="1297" alt="image" src="https://github.com/user-attachments/assets/6f91308e-10f4-42dd-b42d-aceda70cfac9">
 
 # Description
